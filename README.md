@@ -1,13 +1,14 @@
 ## Currently in Development
 
 **Branch:** new_branch_1  
-**Commit:** fix: branch link in README update workflow to point to new_branch_1  
-**Description:** This is a description test  
-**Commit ID:** `1070cd3`  
+**Commit:** feat: add initial test script with docstring and infinite loop  
+**Description:**   
+**Commit ID:** `c7d268b`  
 
-[View Branch](https://github.com/FlamingoLindo/GitHubActions-Test/tree/new_branch_1) | [View Commit](https://github.com/FlamingoLindo/GitHubActions-Test/commit/1070cd3c67f46183f131e6b241f4706c2fa65705)
+[View Branch](https://github.com/FlamingoLindo/GitHubActions-Test/tree/new_branch_1) | [View Commit](https://github.com/FlamingoLindo/GitHubActions-Test/commit/c7d268b8cee31ef1ff62a74ec18ece87e2f2a5b1)
 
 ---
+
 
 # GitHubActions-Test
 
