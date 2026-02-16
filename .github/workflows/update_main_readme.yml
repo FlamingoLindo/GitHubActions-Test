@@ -45,7 +45,7 @@ jobs:
           **Description:** ${{ steps.commit_info.outputs.description }}  
           **Commit ID:** `${{ steps.commit_info.outputs.short_id }}`  
 
-          [View Branch](${{ steps.commit_info.outputs.repo_url }}/tree/front%20end) | [View Commit](${{ steps.commit_info.outputs.url }}/commit/${{ steps.commit_info.outputs.id }})
+          [View Branch](${{ steps.commit_info.outputs.url }}/tree/new_branch_1) | [View Commit](${{ steps.commit_info.outputs.url }}/commit/${{ steps.commit_info.outputs.id }})
 
           ---
 
